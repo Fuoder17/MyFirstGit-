@@ -1,1 +1,1 @@
-# MyFirstGit-
+# MyFirstGit- This is my first Git push to my repository, I’m learning Java through Udemy by Tim Buchalka, I decided to use one of my favorite topics I have learned. This will be my reference as I continue to learn java. Please feel free to add comments and or provide feedback.
